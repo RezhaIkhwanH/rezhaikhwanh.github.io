@@ -1,0 +1,80 @@
+[
+  {
+    "title": "DQN Lunar lander",
+    "kategori": "Reinforcement Learning",
+    "image": "images/demo_dengan_LSTM.gif",
+    "link": "https://github.com/RezhaIkhwanH/Lunar-lander-Pytorch"
+  },
+  {
+    "title": "Hybrid Trading AI",
+    "kategori": "Forecasting & Reinforcement Learning",
+    "image": "images/tampilan demo trading AI.png",
+    "link": "https://github.com/RezhaIkhwanH/Streamlit_model_forcasting"
+  },
+  {
+    "title": "A3C Atari Game Boxing",
+    "kategori": "Reinforcement Learning",
+    "image": "images/demo boxing.gif",
+    "link": "https://github.com/RezhaIkhwanH/RL-Boxing-atari-GYM"
+  },
+  {
+    "title": "NLP Fake news detection",
+    "kategori": "Deep Learning",
+    "image": "images/Fake news ilustrasiwebp.webp",
+    "link": "https://github.com/RezhaIkhwanH/Fake-news-detection"
+  },
+  {
+    "title": "DDPG Bipedal Walker",
+    "kategori": "Reinforcement Learning",
+    "image": "images/demo bibpedal walker.gif",
+    "link": "https://github.com/RezhaIkhwanH/bipedal-walker-DDPG"
+  },
+  {
+    "title": "Genetic Algorithm Optimization",
+    "kategori": "Computational Intelligence Algorithms",
+    "image": "images/demo GA mountain car.gif",
+    "link": "https://github.com/RezhaIkhwanH/GA-genetic-algorithm"
+  },
+  {
+    "title": "Humanoid RL PPO",
+    "kategori": "Reinforcement Learning",
+    "image": "images/demo humanoid.gif",
+    "link": "https://github.com/RezhaIkhwanH/Humanoid-Brax-"
+  },
+  {
+    "title": "Auto-News",
+    "kategori": "Langchain Multi-Agent",
+    "image": "images/demo AI auto news.png",
+    "link": "https://github.com/RezhaIkhwanH/Auto-News"
+  },
+  {
+    "title": "Kontrak-Hukum-AI-Konsultan",
+    "kategori": "Langchain Multi-Agent LLM",
+    "image": "images/demo AI hukum konsultan.png",
+    "link": "https://github.com/RezhaIkhwanH/kontrak-AI-analis"
+  },
+  {
+    "title": "Optimisasi Strategi Perdagangan Saham",
+    "kategori": "Hybrid RL & Forecasting | Publikasi SINTA 3",
+    "image": "images/demo publikasi.png",
+    "link": "https://jurnal.polbeng.ac.id/index.php/ISI/article/view/1274"
+  },
+  {
+    "title": "p2p sharing file",
+    "kategori": "P2P Communication ",
+    "image": "images/p2p client.png",
+    "link": "https://github.com/RezhaIkhwanH/P2P-web-client-sender"
+  },
+  {
+    "title": "Agent comparison product",
+    "kategori": "Multi Agent Langchain",
+    "image": "images/chat comparasi produk.png",
+    "link": "https://github.com/RezhaIkhwanH/Agent-Comparasi-Produk--ui-web"
+  },
+  {
+    "title": "AI Agent curhat",
+    "kategori": "AI Agent Langchain",
+    "image": "images/img agent curhat.png",
+    "link": "https://github.com/RezhaIkhwanH/backend-chatbot-curhat"
+  }
+]
