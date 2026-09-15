@@ -76,5 +76,17 @@
     "kategori": "AI Agent Langchain",
     "image": "images/img agent curhat.png",
     "link": "https://github.com/RezhaIkhwanH/backend-chatbot-curhat"
+  },
+  {
+    "title": "greenhouse dengan AI agent",
+    "kategori": "IoT AI Agent",
+    "image": "images/AI IOT.png",
+    "link": "https://github.com/RezhaIkhwanH/AI-smart-Iot-board-simulation"
+  },
+  {
+    "title": "rekomendasi movie dengan AI agent",
+    "kategori": "AI Agent Langchain",
+    "image": "https://cdn.discordapp.com/attachments/1131517038435770410/1549285649423663166/image.png?ex=6aaa2433&is=6aa8d2b3&hm=3d5a4fd064761bc6fcdae9b32e324d37258ea3da081fb449f4df12ceaa090cda&",
+    "link": "https://github.com/RezhaIkhwanH/AI-Agent-cari-film-UI-web"
   }
 ]
