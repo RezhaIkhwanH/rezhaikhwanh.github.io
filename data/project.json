@@ -74,7 +74,7 @@
   {
     "title": "AI Agent curhat",
     "kategori": "AI Agent Langchain",
-    "image": "images/img agent curhat.png",
+    "image": "images/agent curhat.png",
     "link": "https://github.com/RezhaIkhwanH/backend-chatbot-curhat"
   },
   {
@@ -86,7 +86,13 @@
   {
     "title": "rekomendasi movie dengan AI agent",
     "kategori": "AI Agent Langchain",
-    "image": "https://cdn.discordapp.com/attachments/1131517038435770410/1549285649423663166/image.png?ex=6aaa2433&is=6aa8d2b3&hm=3d5a4fd064761bc6fcdae9b32e324d37258ea3da081fb449f4df12ceaa090cda&",
+    "image": "images/agent rekomendasi movie.png",
     "link": "https://github.com/RezhaIkhwanH/AI-Agent-cari-film-UI-web"
+  },
+  {
+    "title": "Bot MoM Notetaker discord",
+    "kategori": "Discord Bot & LLM",
+    "image": "images/bot mom.png",
+    "link": "https://github.com/RezhaIkhwanH/MOM-agent-bot-discord"
   }
 ]
